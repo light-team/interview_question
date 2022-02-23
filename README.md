@@ -4,7 +4,7 @@
 
 开发语言: `优先python`, 其次可以选择, golang, cpp, java
 
-提交结果: 上传到github/gitee, 提交相应地址给HR
+提交结果: 上传到个人的github/gitee, 提交相应地址给HR
 
 提问: 请留issue, 我们会及时回复.
 
